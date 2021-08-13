@@ -1,0 +1,127 @@
+# baseURL = 'http://example.org/'
+# languageCode = 'en-us'
+# title = 'My New Hugo Site'
+
+baseurl = "https://namanlakhwani.tech"
+title = "Naman Lakhwani"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+enableEmoji = true
+
+disqusShortname = "Naman"
+
+[params]
+    author = "Naman Lakhwani"
+    info = "GSoC'21 @CNCF, UG @IIIT Gwalior, India"
+    description = "Naman Lakhwani's personal website"
+    keywords = "blog,developer,personal,software,software engineer,monitoring,observability,infrastructure"
+    avatarurl = "https://user-images.githubusercontent.com/56021229/129317866-c47370a0-2467-4297-a383-62fc9bc97e78.png"
+
+    favicon_32 = "/img/favicon-32x32.png" # TODO
+    favicon_16 = "/img/favicon-16x16.png" # TODO
+
+    footercontent = "Aspiring SDE. Web Development. Distributed systems. GoLang. gRPC. Observability. Monitoring."
+
+    hidecredits = true
+    hidecopyright = false
+
+    rtl = false
+    math = true
+
+    dateformat = "January 2, 2006"
+
+    since = 2021
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # # Custom CSS
+    # custom_css = []
+
+    # # Custom JS
+    # custom_js = []
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/Namanl2001/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 2
+    url = "https://twitter.com/NamanLakhwani/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 3
+    url = "https://linkedin.com/in/naman2001/"
+[[params.social]]
+    name = "Stack Overflow"
+    icon = "fa fa-stack-overflow"
+    weight = 4
+    url = "https://stackoverflow.com/users/12075597/naman-lakhwani?tab=profile"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 5
+    url = "https://medium.com/@namanlakhwani"
+[[params.social]]
+    name = "YouTube"
+    icon = "fa fa-youtube"
+    weight = 6
+    url = "https://www.youtube.com/channel/UCKJEOGJw5bbMpORkoRVDDug"
+# [[params.social]]
+#    name = "RSS"
+#    icon = "fa fa-rss"
+#    weight = 7
+#    url = "https://kakkoyun.me/index.xml"
+#    rel = "alternate"
+#    type = "application/rss+xml"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "about/"
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    url = "projects/"
+#[[menu.main]]
+#    name = "Talks"
+#    weight = 4
+#    url = "talks/"
+# [[menu.main]]
+#     name = "CV"
+#     weight = 5
+#     url = "/cv/"
+# [[menu.main]]
+#     name = "Stats"
+#     weight = 6
+#     url = "/stats/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
