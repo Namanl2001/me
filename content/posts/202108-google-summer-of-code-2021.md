@@ -21,10 +21,12 @@ I am Naman Lakhwani, an undergraduate student at the Indian Institute of Informa
 [Google Summer of Code](https://summerofcode.withgoogle.com/) is a global program focused on bringing more student developers into open source software development. Students work with an open-source organization on a 10-week programming project during their break from school/university.
 
 ### :point_right: What is Thanos?
-[Thanos](https://thanos.io/) is an open-source, highly available Prometheus setup with long-term storage capabilities, and It is a CNCF Incubating project. Thinking of what Prometheus is? Prometheus is an open-source system monitoring and alerting toolkit.
+[Thanos](https://thanos.io/) is an open-source, highly available Prometheus setup with long-term storage capabilities, and It is a CNCF Incubating project. Thinking of what Prometheus is? Prometheus is an open-source system monitoring and alerting toolkit. Thanos seamlessly extends Prometheus in a few simple steps and it is already used in production by hundreds of companies that aim for high multi-cloud scale for metrics while keeping low maintenance cost.
 
 ### :point_right: Starting my Google summer of code journey with Thanos.
 I have been contributing to Thanos since December 2020. Fortunately, I got to know that Thanos is taking part in GSoC this year too. So I went through the proposed project, drafted a detailed proposal for the same, and submitted it, which the mentors finally selected, and I got the opportunity to work under them. The official coding period started on the 8th of June 2021. We decided the workflow for the next three months and discussed the expectations we had from each other. We decided to meet over a video call weekly on Thursdays to get unblocked, discuss the progress made so far and action items for the next week.
+
+Accepted proposal can be found here: [Automated TLS client support](https://docs.google.com/document/d/1UMdpJulzImtOkjNRl4_JJplX1E3HpypMgAYkYZcJd_M/edit?usp=sharing)
 
 ### :point_right: What was Planned?
 So the problem with Thanos' Querier component was that it supports basic mutual TLS configuration for internal gRPC communication, which works great for primary use cases. However, it still requires extra forward proxies (e.g., envoy) to make it work for bigger deployments. It was also hard to rotate certificates automatically and configure safe mTLS. So the main goals we decided were to remove the dependency for extra forward proxies by adding support for per-endpoint TLS configuration in Thanos Query Component and to enable automatic certificate rotation without restart. In big projects, before starting the actual implementation, it’s always helpful to have a consensus on a proper roadmap for the upcoming changes and to note down which parts of the code will be affected by our changes. Therefore, after iterating for a few weeks over my drafted proposal, it was accepted, and I started the implementation.
@@ -53,9 +55,10 @@ Testing the code you have written is not that tough because you know the entire 
 The overall mentorship experience was incredible. I got this GSoC mentorship opportunity in the summer break of my second year of university. In this mentorship program I was able to overcome my fear of contributing to large codebases and now I’m more confident in working with Go, gRPC, TLS,  distributed systems and microservices.  The weekly interactions with the mentors helped to accomplish all the milestones set for this mentorship period, entirely.
 
 ### :point_right: Curious to see the work done?
-- [Proposal](https://github.com/thanos-io/thanos/pull/4377)
+- [Revised proposal](https://github.com/thanos-io/thanos/pull/4377)
 - Implementation part 1: [Per-endpoint TLS configuration feature](https://github.com/thanos-io/thanos/pull/4389)
 - Implementation part 2: [Automatic certificate rotation feature](https://github.com/thanos-io/thanos/pull/4493) 
+- Virtual talk: [TLS in brief-Recording](https://www.youtube.com/watch?v=s9L0XukF6jQ&t=3856s)
 
 ### :point_right: Shout out to the wonderful mentors.
 :star: [Bartek Plotka](https://www.linkedin.com/in/bwplotka/): He is a Principal Software Engineer at Red Hat; (London, United Kingdom)\
