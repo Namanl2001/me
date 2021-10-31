@@ -20,7 +20,7 @@ disqusShortname = "Naman"
 
 [params]
     author = "Naman Lakhwani"
-    info = "GSoC'21 @CNCF, UG @IIIT Gwalior, India"
+    info = "LFX'21 @Kubernetes | GSoC'21 @CNCF | UG @IIIT Gwalior, India"
     description = "Naman Lakhwani's personal website"
     keywords = "blog,developer,personal,software,software engineer,monitoring,observability,infrastructure"
     avatarurl = "https://user-images.githubusercontent.com/56021229/129317866-c47370a0-2467-4297-a383-62fc9bc97e78.png"
