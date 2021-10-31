@@ -108,10 +108,10 @@ disqusShortname = "Naman"
     name = "Projects"
     weight = 3
     url = "projects/"
-#[[menu.main]]
-#    name = "Talks"
-#    weight = 4
-#    url = "talks/"
+[[menu.main]]
+    name = "Talks"
+    weight = 4
+    url = "talks/"
 # [[menu.main]]
 #     name = "CV"
 #     weight = 5
