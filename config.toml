@@ -20,7 +20,7 @@ disqusShortname = "Naman"
 
 [params]
     author = "Naman Lakhwani"
-    info = "LFX'21 @Kubernetes | GSoC'21 @CNCF | UG @IIIT Gwalior, India"
+    info = "MTS Intern @VMware | GSoC'21 @CNCF | LFX'21 @Kubernetes | UG @IIIT Gwalior, India"
     description = "Naman Lakhwani's personal website"
     keywords = "blog,developer,personal,software,software engineer,monitoring,observability,infrastructure"
     avatarurl = "https://user-images.githubusercontent.com/56021229/129317866-c47370a0-2467-4297-a383-62fc9bc97e78.png"
@@ -28,7 +28,7 @@ disqusShortname = "Naman"
     favicon_32 = "/img/favicon-32x32.png" # TODO
     favicon_16 = "/img/favicon-16x16.png" # TODO
 
-    footercontent = "Aspiring SDE. Web Development. Distributed systems. GoLang. gRPC. Observability. Monitoring."
+    footercontent = "Aspiring SDE. Kubernetes. Distributed systems. GoLang. gRPC. Observability. Monitoring."
 
     hidecredits = true
     hidecopyright = false
@@ -66,7 +66,7 @@ disqusShortname = "Naman"
     name = "Twitter"
     icon = "fa fa-twitter"
     weight = 2
-    url = "https://twitter.com/NamanLakhwani/"
+    url = "https://twitter.com/lakhwani_jii/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
