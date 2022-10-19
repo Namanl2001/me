@@ -14,7 +14,7 @@ title: Back from OSS summit Europe, 2022
 
 ![can't access image](../images/conv-center.jpg)
 
-Hola! :wave: I attended OSS summit EU between 13-16 September, 2022. In this blog I'll be briefing about my experience during the whole trip.
+Hola! :wave: I attended OSS summit EU between 13-16 September, 2022 in Dublin, Ireland. In this blog I'll be briefing about my experience during the whole trip.
 
 OSS summit EU will be closest to my heart as it was my first in-person conference and the first time I traveled internationally. Huge shoutout to the Linux Foundation for granting the scholarship and making this possible.
 
