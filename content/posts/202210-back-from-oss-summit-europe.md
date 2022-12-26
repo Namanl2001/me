@@ -76,9 +76,3 @@ While retuning to India I had a long layover in Dubai, so I arranged a UAE visa 
 I heard a lot that “Open source can take you to places,” and now I believe it :)
 
 Being an undergraduate student, this was an incredible opportunity. I can’t express in words the learnings (both tech & non-tech) and exposure I got through this trip. Looking forward to attending (and speaking) more in-person events in the future.
-
-
-
-
-
-
