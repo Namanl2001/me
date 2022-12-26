@@ -3,7 +3,7 @@ title: Talks
 date: 2021-10-31T01:57:45.000+01:00
 ---
 
-This page lists the recorded talks that I have given so far. Not much but it's a start.
+**This page lists the recorded talks that I have given so far. Not much but it's a start.**
 
 ## :point_right: TLS in brief
 
