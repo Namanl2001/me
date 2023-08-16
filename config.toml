@@ -23,7 +23,7 @@ disqusShortname = "Naman"
     info = "MTS Intern @VMware | GSoC'21 @CNCF | LFX'21 @Kubernetes | UG @IIIT Gwalior, India"
     description = "Naman Lakhwani's personal website"
     keywords = "blog,developer,personal,software,software engineer,monitoring,observability,infrastructure"
-    avatarurl = "https://user-images.githubusercontent.com/56021229/129317866-c47370a0-2467-4297-a383-62fc9bc97e78.png"
+    avatarurl = "https://raw.githubusercontent.com/Namanl2001/me/master/content/posts/images/profile.png"
 
     favicon_32 = "/img/favicon-32x32.png" # TODO
     favicon_16 = "/img/favicon-16x16.png" # TODO
