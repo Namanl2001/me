@@ -2,7 +2,7 @@
 # languageCode = 'en-us'
 # title = 'My New Hugo Site'
 
-baseurl = "https://namanlakhwani.tech"
+baseurl = "https://namanlakhwani.dev"
 title = "Naman Lakhwani"
 theme = "hugo-coder"
 languagecode = "en"

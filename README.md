@@ -1,6 +1,6 @@
 # me
 
-Source for [namanlakhwani.tech](https://namanlakhwani.tech) personal website including blog posts.
+Source for [namanlakhwani.dev](https://namanlakhwani.dev) personal website including blog posts.
 
 Once cloned, make sure to run `git submodule update --init --recursive`
 
