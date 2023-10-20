@@ -20,7 +20,7 @@ I attended my first KubeCon in April 2023 in Amsterdam, where I saw a few excell
 
 A month later, Mengjiao, a fellow Kubernetes contributor, posted a message in the contextual-logging Slack channel expressing her desire to submit a call for proposals (CFP) for KubeCon China and seeking community collaborations; I contacted her to discuss the proposal idea. However, we later learned of a policy stating that individuals can only participate in one talk during the Maintainer track session. We decided that I would submit the talk on my own, and with the help of sig-instrumentation maintainer Patrik Ohly, I accomplished that goal and submitted a CFP with the title "Revolutionizing Kubernetes Logging: Structured Logs for Enhanced Monitoring" :white_check_mark:
 
-And hey, it was easily accepted because the talk was in the maintainer track! Did you know when I got the acceptance email? It received it on my birthday, the best birthday present ever! :heart:
+And hey, it was easily accepted because the talk was in the maintainer track! Did you know when I got the acceptance email? I received it on my birthday, the best birthday present ever! :heart:
 
 BTW, I met and had a good long discussion with Patrik in Amsterdam - *just thought of mentioning it here* :)
 
