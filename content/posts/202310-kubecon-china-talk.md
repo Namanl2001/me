@@ -18,7 +18,7 @@ Nǐ hǎo (Hello, in Chinese), In this blog, I'm pleased to share my experience g
 
 I attended my first KubeCon in April 2023 in Amsterdam, where I saw a few excellent presentations that inspired me to take the stage and give my own session. I was working as an intern at VMware then, helping with the upstream Kubernetes project's contextual logging efforts.
 
-A month later, Mengjiao, a fellow Kubernetes contributor, posted a message in the contextual-logging Slack channel expressing her desire to submit a call for proposals (CFP) for KubeCon China and seeking community collaborations; I contacted her to discuss the proposal idea. However, we later learned of a policy stating that individuals can only participate in one talk during the Maintainer track session. We decided that I would submit the talk on my own, and with the help of sig-instrumentation maintainer Patrik Ohly, I accomplished that goal :white_check_mark:
+A month later, Mengjiao, a fellow Kubernetes contributor, posted a message in the contextual-logging Slack channel expressing her desire to submit a call for proposals (CFP) for KubeCon China and seeking community collaborations; I contacted her to discuss the proposal idea. However, we later learned of a policy stating that individuals can only participate in one talk during the Maintainer track session. We decided that I would submit the talk on my own, and with the help of sig-instrumentation maintainer Patrik Ohly, I accomplished that goal and submitted a CFP with the title "Revolutionizing Kubernetes Logging: Structured Logs for Enhanced Monitoring" :white_check_mark:
 
 And hey, it was easily accepted because the talk was in the maintainer track! Did you know when I got the acceptance email? It received it on my birthday, the best birthday present ever! :heart:
 
@@ -26,15 +26,13 @@ BTW, I met and had a good long discussion with Patrik in Amsterdam - *just thoug
 
 # A Day Before 
 
-Since my talk was scheduled for the first day of KubeCon, I arrived a day early, settled into my hotel, had lunch, took a nap, and began rehearsing. I was a little concerned since, although I finished my  
-presentation slides before flying to China, I never practiced giving it. Thus, I practiced it a lot until midnight, until I felt comfortable speaking and presenting the content on my slides. Why did I put in so much practice? Because I knew where I was going to take the stage, it’s KubeCon dued! and it has a very sharp audience :exploding_head:
+Since my talk was scheduled for the first day of KubeCon, I arrived a day early, settled into my hotel, had lunch, took a nap, and began rehearsing. I was a little concerned since, although I finished my presentation slides before flying to China, I never practiced giving it. Thus, I practiced it a lot until midnight, until I felt comfortable speaking and presenting the content on my slides. Why did I put in so much practice? Because I knew where I was going to take the stage, it’s KubeCon dued! and it has a very sharp audience :exploding_head:
 
 # That Day
 
 I reached the venue in the morning, although my session was scheduled for the afternoon. I first met Mengjiao, who was also preparing for her talk. After that, I attended a couple of sessions to get the vibes of the conference and become comfortable there.
 
-I then walked to the solution showcase hall to network, where I met Shuting Zhao, a former Nirmata  
-colleague. We could not have been more delighted to see each other in person for the first time. After a while, she shared her experience of the talk she gave that morning and asked me how I felt a few hours before my talk. I told her about my last rehearsal day and that I wasn't feeling particularly frightened or excited — just regular :relieved:
+I then walked to the solution showcase hall to network, where I met Shuting Zhao, a former Nirmata colleague. We could not have been more delighted to see each other in person for the first time. After a while, she shared her experience of the talk she gave that morning and asked me how I felt a few hours before my talk. I told her about my last rehearsal day and that I wasn't feeling particularly frightened or excited — just regular :relieved:
 
 # That Particular Moment
 
