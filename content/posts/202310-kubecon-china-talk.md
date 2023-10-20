@@ -16,11 +16,9 @@ From Attending KubeCon to Speaking at KubeCon: A Journey Full of Learnings.
 
 Nǐ hǎo (Hello, in Chinese), In this blog, I'm pleased to share my experience giving my first talk at an international conference, KubeCon + Open Source Summit China, 2023 :airplane:
 
-I attended my first KubeCon in April 2023 in Amsterdam, where I saw a few excellent presentations that inspired me to take the stage and give my own session. I was working as an intern at VMware then,  
-helping with the upstream Kubernetes project's contextual logging efforts.
+I attended my first KubeCon in April 2023 in Amsterdam, where I saw a few excellent presentations that inspired me to take the stage and give my own session. I was working as an intern at VMware then, helping with the upstream Kubernetes project's contextual logging efforts.
 
-A month later, Mengjiao, a fellow Kubernetes contributor, posted a message in the contextual-logging Slack channel expressing her desire to submit a call for proposals (CFP) for KubeCon China and seeking community collaborations; I contacted her to discuss the proposal idea. However, we later learned of a policy stating that individuals can only participate in one talk during the Maintainer track session.  
-We decided that I would submit the talk on my own, and with the help of sig-instrumentation maintainer Patrik Ohly, I accomplished that goal :white_check_mark:
+A month later, Mengjiao, a fellow Kubernetes contributor, posted a message in the contextual-logging Slack channel expressing her desire to submit a call for proposals (CFP) for KubeCon China and seeking community collaborations; I contacted her to discuss the proposal idea. However, we later learned of a policy stating that individuals can only participate in one talk during the Maintainer track session. We decided that I would submit the talk on my own, and with the help of sig-instrumentation maintainer Patrik Ohly, I accomplished that goal :white_check_mark:
 
 And hey, it was easily accepted because the talk was in the maintainer track! Did you know when I got the acceptance email? It received it on my birthday, the best birthday present ever! :heart:
 
@@ -51,8 +49,7 @@ Drop a :thumbs_up: and let me know your thoughts in the comments.
 
 # What Happened Next!
 
-It was fascinating that I delivered my first international conference talk without any hesitation or  
-nervousness on stage in front of so many clever and curious minds of the cloud-native community :grinning:
+It was fascinating that I delivered my first international conference talk without any hesitation or nervousness on stage in front of so many clever and curious minds of the cloud-native community :grinning:
 
 Mengjiao notified me that because the majority of the audience was Chinese, I was speaking too fast for them. However, I got a positive response from my Indian friends, who attended my session to show their support and increase the crowd in the room, LOL. 
 
