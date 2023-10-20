@@ -14,7 +14,7 @@ title: From Attending KubeCon to Speaking at KubeCon
 
 From Attending KubeCon to Speaking at KubeCon: A Journey Full of Learnings.
 
-Nǐ hǎo (Hello, in Chinese), In this blog, I'm pleased to share my experience giving my first talk at an international conference, KubeCon + Open Source Summit China, 2023 :airplane:
+Nǐ hǎo (Hello, in Chinese), In this blog, I'm pleased to share my experience of giving my first-ever talk at an international conference, KubeCon + Open Source Summit China, 2023, which took place in Shanghai this year :airplane:
 
 I attended my first KubeCon in April 2023 in Amsterdam, where I saw a few excellent presentations that inspired me to take the stage and give my own session. I was working as an intern at VMware then, helping with the upstream Kubernetes project's contextual logging efforts.
 
