@@ -62,6 +62,6 @@ Mengjiao notified me that because the majority of the audience was Chinese, I wa
 
 # What's the plan moving forward? 
 
-Our plans should always be private, but as a hint, I’m planning to attend and speak at more such conferences in the future;) Writing a blog on my entire experience during this conference is also on my TODO :spiral_notepad:
+Our plans should always be private, but as a hint, I’m planning to attend and speak at more such conferences in the future ;) Writing a blog on my entire experience during this conference is also on my TODO :spiral_notepad:
 
 Xièxiè (pronounced Shi-Shi, Thank you in Chinese)
