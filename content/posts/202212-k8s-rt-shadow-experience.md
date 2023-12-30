@@ -5,6 +5,7 @@ categories:
 - Release team shadow
 - Open Source
 - CNCF
+- 2022
 comments: true
 date: "2022-12-26T00:00:00Z"
 published: true

@@ -7,11 +7,11 @@ Hey there, I'm Naman Lakhwani, currently in my final year at IIIT Gwalior, India
 
 *Fun fact* : Many people assume me short, but I'm 191 cm ;)
 
-### CV
-It's 202x, so please visit my [Linkedin Profile](https://www.linkedin.com/in/naman2001/)
+### Work Experience
+Not a big fan of duplicating information. If you want to read more about my past work, please visit my [Linkedin Profile](https://www.linkedin.com/in/naman2001/)
 
 ### Contact
-If you wish to contact me, you may email me at: namanlakhwani@gmail.com
+The most reliable way to reach me is via email: namanlakhwani@gmail.com
 
 ### Travel
 I've traveled to 11 countries, spanning from Ireland in the west to Japan in the east, exploring diverse cultures and landscapes along the way.

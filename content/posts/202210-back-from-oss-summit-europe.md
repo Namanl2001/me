@@ -6,6 +6,7 @@ categories:
 - CNCF
 - LFX
 - Conference
+- 2022
 comments: true
 date: "2022-10-16T00:00:00Z"
 published: true

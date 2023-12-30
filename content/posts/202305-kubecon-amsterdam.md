@@ -6,6 +6,7 @@ categories:
 - OSS summit
 - CNCF
 - Conference
+- 2023 
 comments: true
 date: "2023-05-05T00:00:00Z"
 published: true

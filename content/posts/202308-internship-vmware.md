@@ -4,6 +4,7 @@ categories:
 - VMware
 - Open Source
 - Intern
+- 2023
 comments: true
 date: "2023-08-11T00:00:00Z"
 published: true

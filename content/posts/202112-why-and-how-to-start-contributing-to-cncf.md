@@ -6,6 +6,7 @@ categories:
 - CNCF
 - Kubernetes
 - GoLang
+- 2021
 comments: true
 date: "2021-12-15T00:00:00Z"
 published: true
