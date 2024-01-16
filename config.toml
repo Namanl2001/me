@@ -20,15 +20,15 @@ disqusShortname = "Naman"
 
 [params]
     author = "Naman Lakhwani"
-    info = "MTS Intern @VMware | GSoC'21 @CNCF | LFX'21 @Kubernetes | UG @IIIT Gwalior, India"
+    info = "Scaling HackerRank • Ex: VMware • Mercari Japan • GSoC @CNCF • LFX @Kubernetes"
     description = "Naman Lakhwani's personal website"
-    keywords = "blog,developer,personal,software,software engineer,monitoring,observability,infrastructure"
+    keywords = "naman lakhwani, naman lakhwani blog, naman lakhwani cncf"
     avatarurl = "https://raw.githubusercontent.com/Namanl2001/me/master/content/posts/images/profile.png"
 
     favicon_32 = "/img/favicon-32x32.png" # TODO
     favicon_16 = "/img/favicon-16x16.png" # TODO
 
-    footercontent = "Aspiring SDE. Kubernetes. Distributed systems. GoLang. gRPC. Observability. Monitoring."
+    footercontent = "SDE • Kubernetes • GoLang • Observability • Distributed systems"
 
     hidecredits = true
     hidecopyright = false
@@ -82,11 +82,11 @@ disqusShortname = "Naman"
     icon = "fa fa-medium"
     weight = 5
     url = "https://medium.com/@namanlakhwani"
-[[params.social]]
-    name = "YouTube"
-    icon = "fa fa-youtube"
-    weight = 6
-    url = "https://www.youtube.com/channel/UCKJEOGJw5bbMpORkoRVDDug"
+#[[params.social]]
+#   name = "YouTube"
+#    icon = "fa fa-youtube"
+#    weight = 6
+#    url = "https://www.youtube.com/channel/UCKJEOGJw5bbMpORkoRVDDug"
 # [[params.social]]
 #    name = "RSS"
 #    icon = "fa fa-rss"
