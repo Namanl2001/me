@@ -23,7 +23,7 @@ disqusShortname = "Naman"
     info = "Scaling HackerRank • Ex: VMware • Mercari Japan • GSoC @CNCF • LFX @Kubernetes"
     description = "Naman Lakhwani's personal website"
     keywords = "naman lakhwani, naman lakhwani blog, naman lakhwani cncf"
-    avatarurl = "https://raw.githubusercontent.com/Namanl2001/me/master/content/posts/images/profile.png"
+    avatarurl = "https://avatars.githubusercontent.com/u/56021229?v=4"
 
     favicon_32 = "/img/favicon-32x32.png" # TODO
     favicon_16 = "/img/favicon-16x16.png" # TODO
