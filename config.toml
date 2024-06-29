@@ -20,7 +20,17 @@ disqusShortname = "Naman"
 
 [params]
     author = "Naman Lakhwani"
-    info = "Scaling HackerRank • Ex: VMware • Mercari Japan • GSoC @CNCF • LFX @Kubernetes"
+    info = [
+    "Software Engineer | Hustler",
+    "",
+    "Master's from IIIT Gwalior",
+    "",
+    "Go | Kubernetes | Distributed Systems",
+    "",
+    "Learning System Design",
+    "Master of None",
+]
+#    info = "Ex: VMware • Mercari Japan • GSoC @CNCF • LFX @Kubernetes"
     description = "Naman Lakhwani's personal website"
     keywords = "naman lakhwani, naman lakhwani blog, naman lakhwani cncf"
     avatarurl = "https://avatars.githubusercontent.com/u/56021229?v=4"
@@ -28,7 +38,7 @@ disqusShortname = "Naman"
     favicon_32 = "/img/favicon-32x32.png" # TODO
     favicon_16 = "/img/favicon-16x16.png" # TODO
 
-    footercontent = "SDE • Kubernetes • GoLang • Observability • Distributed systems"
+#    footercontent = "SDE • Kubernetes • GoLang • Observability • Distributed systems"
 
     hidecredits = true
     hidecopyright = false
@@ -58,30 +68,30 @@ disqusShortname = "Naman"
 
 # Social links
 [[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 1
+    url = "https://linkedin.com/in/naman2001/"
+[[params.social]]
     name = "Github"
     icon = "fa fa-github"
-    weight = 1
+    weight = 2
     url = "https://github.com/Namanl2001/"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
-    weight = 2
-    url = "https://twitter.com/lakhwani_jii/"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fa fa-linkedin"
     weight = 3
-    url = "https://linkedin.com/in/naman2001/"
-[[params.social]]
-    name = "Stack Overflow"
-    icon = "fa fa-stack-overflow"
-    weight = 4
-    url = "https://stackoverflow.com/users/12075597/naman-lakhwani?tab=profile"
+    url = "https://twitter.com/lakhwani_jii/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium"
-    weight = 5
+    weight = 4
     url = "https://medium.com/@namanlakhwani"
+#[[params.social]]
+#   name = "Stack Overflow"
+#    icon = "fa fa-stack-overflow"
+#    weight = 4
+#    url = "https://stackoverflow.com/users/12075597/naman-lakhwani?tab=profile"
 #[[params.social]]
 #   name = "YouTube"
 #    icon = "fa fa-youtube"
