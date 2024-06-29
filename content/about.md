@@ -3,12 +3,12 @@ title: About
 date: 2023-08-12
 ---
 
-Hey there, I'm Naman Lakhwani, currently in my final year at IIIT Gwalior, India. My journey revolves around diving into the depths of various CNCF's open-source projects, continuously learning and contributing. Away from the world of code, I challenge myself with daily weightlifting workout sessions to maintain a healthy lifestyle. Additionally, I enjoy reading self-growth books and spending quality time with my family. 
+Hey there, I’m Naman Lakhwani, holding a Master's degree from IIIT Gwalior, India. My journey revolves around diving into the depths of various CNCF's open-source projects, continuously learning and contributing. Away from the world of code, I challenge myself with daily weightlifting workout sessions to maintain a healthy lifestyle. Additionally, I enjoy reading self-growth books and spending quality time with my family. 
 
 *Fun fact* : Many people assume me short, but I'm 191 cm ;)
 
 ### Work Experience
-Not a big fan of duplicating information. If you want to read more about my past work, please visit my [Linkedin Profile](https://www.linkedin.com/in/naman2001/)
+Not a big fan of duplicating information. If you want to read about my past work experience, please visit the [Open-Source](../projects) page or head over to my [Linkedin](https://www.linkedin.com/in/naman2001/) profile
 
 ### Contact
 The most reliable way to reach me is via email: namanlakhwani@gmail.com

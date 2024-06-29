@@ -135,3 +135,8 @@ disqusShortname = "Naman"
   category = "categories"
   series = "series"
   tag = "tags"
+
+[markup]
+  defaultMarkdownHandler = 'blackFriday'
+  [markup.blackFriday]
+    hrefTargetBlank = true
