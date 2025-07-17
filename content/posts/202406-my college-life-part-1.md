@@ -6,7 +6,7 @@ Categories:
 - 2024
 comments: true
 date: "2024-06-30T00:00:00Z"
-published: true
+published: false
 title: Reflections on My College Life at IIIT Gwalior
 ---
 
