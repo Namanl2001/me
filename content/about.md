@@ -3,7 +3,7 @@ title: About
 date: 2023-08-12
 ---
 
-Hey there, I’m Naman Lakhwani, a lazy software engineer, holding a Master's degree from IIIT Gwalior, India. My journey revolves around diving into the depths of various CNCF's open-source projects, continuously learning and contributing. Away from the world of code, I challenge myself with daily weightlifting workout sessions to maintain a healthy lifestyle. Additionally, I enjoy reading self-growth books and spending quality time with my family. 
+Hey there, I’m Naman Lakhwani, a lazy software engineer. My journey revolves around diving into the depths of various CNCF's open-source projects, continuously learning and contributing. Away from the world of code, I challenge myself with daily weightlifting workout sessions to maintain a healthy lifestyle. Additionally, I enjoy reading self-growth books and spending quality time with my family. 
 
 *Fun fact* : Many people assume me short, but I'm 191 cm ;)
 

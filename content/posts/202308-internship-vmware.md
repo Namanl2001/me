@@ -6,12 +6,12 @@ categories:
 - Intern
 - 2023
 comments: true
-date: "2023-08-11T00:00:00Z"
+date: "2023-06-11T00:00:00Z"
 published: true
-title: Inside VMware; 17 Months of Tech and Growth
+title: Inside VMware; Months of Tech and Growth
 ---
 
-Hey everyone! 👋 I'm Naman Lakhwani, a final-year student at IIIT Gwalior, India. Buckle up because I'm about to take you on an extraordinary ride through the past 17 months of my life at VMware! 🚀 But before I delve into the heart of this experience, let me rewind a bit. Picture this: a young tech enthusiast on a quest for knowledge who had the opportunity to participate in programs like Google Summer of Code and the esteemed Linux Foundation mentorship program. Little did I know that these stepping stones would lead me to the incredible world of VMware! 😎
+Hey everyone! 👋 I'm Naman Lakhwani, a final-year student at IIIT Gwalior, India. Buckle up because I'm about to take you on an extraordinary ride through the past months of my life at VMware! 🚀 But before I delve into the heart of this experience, let me rewind a bit. Picture this: a young tech enthusiast on a quest for knowledge who had the opportunity to participate in programs like Google Summer of Code and the esteemed Linux Foundation mentorship program. Little did I know that these stepping stones would lead me to the incredible world of VMware! 😎
 
 In this blog, I'll be your virtual tour guide, sharing the highs and the occasional bumps of working at a multinational powerhouse like VMware. So fasten your seatbelts and get ready for an inside look at the dynamic, ever-evolving world of tech, and the invaluable lessons learned along the way. 🌟
 
@@ -64,7 +64,7 @@ Among the numerous recognitions I received, here are a couple.
 ![can't access image](../images/vmware-shoutout-1.png)
 
 # Key Takeaways
-During my 17-month journey at VMware, I gained valuable technical insights, but the most significant lesson was rooted in kindness. Learning how to consistently extend kindness to everyone, regardless of their position, resonated deeply with me. I observed that as individuals ascend the hierarchy, their kindness tends to increase. "Always being kind" stands out as the primary lesson I'm carrying forward from my time at VMware. 😇
+During my journey at VMware, I gained valuable technical insights, but the most significant lesson was rooted in kindness. Learning how to consistently extend kindness to everyone, regardless of their position, resonated deeply with me. I observed that as individuals ascend the hierarchy, their kindness tends to increase. "Always being kind" stands out as the primary lesson I'm carrying forward from my time at VMware. 😇
 
 # A Moment of Gratitude and Appreciation
 I am incredibly thankful for the unwavering support I received during my journey at VMware. My heartfelt appreciation goes to:
